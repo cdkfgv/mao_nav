@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1769601861279",
+          "name": "HackerNews",
+          "url": "https://www.supertechfans.com/cn/",
+          "description": "HackerNews",
+          "icon": "https://www.faviconextractor.com/favicon/www.supertechfans.com"
         }
       ]
     },
@@ -482,5 +489,5 @@ export const mockData = {
     }
   ],
   "title": "猫猫导航🐱",
-  "_fileSha": "b03d0407ec06ac7f254abf6645ac0425a8e74a92"
+  "search": "bing"
 }
